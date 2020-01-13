@@ -4,12 +4,11 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
         "送给亲爱的娃":"./imgs/xiaochuan.png",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "祝你生日快乐！":"./imgs/xiaochuan2.png" ,  // 同上...
+        "祝你生日快乐！":"./imgs/xiaochuan2.png", // 同上...
         "在三字头开始的日子里":"./imgs/xiaochuan3.png",
         "把头发剪成年轻模样":"./imgs/xiaochuan4.png",
         "穿上一身幼稚裙装":"./imgs/xiaochuan5.png",
         "FOREVER YOUNG",
-
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
